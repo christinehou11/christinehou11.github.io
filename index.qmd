@@ -1,11 +1,37 @@
 ---
-title: "christinehou11.github.io"
+title: "Christine Hou (She/her/hers)"
+image: images/christinehou.JPG
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      url: "https://github.com/christinehou11"
+    - text: Email
+      url: "chou11@jh.edu" 
+comments: false
 ---
 
-This is a Quarto website.
+::: column-body
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<font size= "5">  **Education Background** </font>
 
-```{r}
-1 + 1
-```
+- Johns Hopkins University, Bloomber School of Public Health
+
+  - Master of Science (Sc.M.) in Biostatistics
+  
+  - 2023 - 2025 (Expected)
+  
+- University of Wisconsin - Madison
+
+  - Bachelor of Science (B.S.) in Data Science
+  
+  - Bachelor of Science (B.S.) in Statistics
+  
+  - University Certificate (UCrt) in Mathematics
+  
+  - University Certificate (UCrt) in East Asian Studies
+  
+  - 2019 - 2023
+
+:::
