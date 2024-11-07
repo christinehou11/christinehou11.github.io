@@ -1,0 +1,17 @@
+---
+title: "Publications"
+format:
+    html:
+        toc: true
+        toc-depth: 3
+---
+
+## Preprints
+
+Nelson ED, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J, **Hou C**, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, Hicks SC. (2024). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). *bioRxiv*.
+
+**Hou C**, Ghazanfar S, Marini F, Morgan M, Hicks SC. (2024). [HuBMAPR: an R Client for the HuBMAP Data Portal](https://doi.org/10.1101/2024.09.26.615227). *bioRxiv*.
+
+## 2024
+
+Brownell J, Lee KE, Chasman D, Gangnon R, Bendixsen CG, Barnes K, Grindle K, Pappas T, Bochkov YA, Dresen A, **Hou C**, Haslam DB, Seroogy CM, Ong IM, Gern JE. [Farm animal exposure, respiratory illnesses, and nasal cell gene expression](https://doi.org/10.1016/j.jaci.2024.01.019). (2024). J Allergy Clin Immunol. Jun; 153(6):1647-1654. PMID: 38309597; PMCID: PMC11162314.

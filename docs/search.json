@@ -1,16 +1,107 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Packages",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "R/HuBMAPR |  | R/Bioconductor package that serves as an R Client for the HuBMAP Data Portal. (Hou et al., 2024. bioRxiv)"
+  },
+  {
+    "objectID": "software.html#bioconductor",
+    "href": "software.html#bioconductor",
+    "title": "Packages",
+    "section": "",
+    "text": "R/HuBMAPR |  | R/Bioconductor package that serves as an R Client for the HuBMAP Data Portal. (Hou et al., 2024. bioRxiv)"
+  },
+  {
+    "objectID": "software.html#github",
+    "href": "software.html#github",
+    "title": "Packages",
+    "section": "GitHub",
+    "text": "GitHub\n\nSoftware packages\n\nR/biasDetect | Identify the biased features from spatially variable genes in spatially-resolved transcriptomics data and from highly variable genes in single-nucleus RNA sequencing data with batch variable.\n\n\n\nData packages\n\nR/humanHippocampus2024 | ExperimentHub package that contains a spatially-resolved transcriptomics dataset in SpatialExperiment class and a single-nucleus RNA sequencing dataset in SingleCellExperiment class from Nelson et al (under-review by Bioconductor)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Christine Hou (She/her/hers)",
     "section": "",
-    "text": "Education Background \n\nJohns Hopkins University, Bloomber School of Public Health\n\nMaster of Science (Sc.M.) in Biostatistics\n2023 - 2025 (Expected)\n\nUniversity of Wisconsin - Madison\n\nBachelor of Science (B.S.) in Data Science\nBachelor of Science (B.S.) in Statistics\nUniversity Certificate (UCrt) in Mathematics\nUniversity Certificate (UCrt) in East Asian Studies\n2019 - 2023"
+    "text": "Research Interests\nGenomics, statistical and computational method development, computational biology, data integration, data science, machine learning\n\n\nSkills\n\nComputational Skills\n\nFluent in R, Python; High-performance Computing (Linux); developing R/Bioconductor packages; statistical modeling; GitHub; Data Science\n\nGenomics atlas processing, analysis, and integration\n\nbulk RNA-seq, single cell genomics, spatially resolved transcriptomics, bulk long read RNA-seq, isoform\n\n\n\n\nEducation\n\nJohns Hopkins University, Bloomber School of Public Health\n\nMaster of Science (Sc.M.) in Biostatistics\n2023 - 2025 (Expected)\n\nUniversity of Wisconsin - Madison\n\nBachelor of Science (B.S.) in Data Science\nBachelor of Science (B.S.) in Statistics\nUniversity Certificate (UCrt) in Mathematics\nUniversity Certificate (UCrt) in East Asian Studies\n2019 - 2023"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Christine’s academic journey lies between genomics data and data science, specifically on the computational method development to solve the concrete issues on genomics data and software engineering. She also has many experiences conducting genomics data analysis."
+  },
+  {
+    "objectID": "projects.html#identification-of-biased-features-in-srt-and-snrna-seq-with-batch-effect",
+    "href": "projects.html#identification-of-biased-features-in-srt-and-snrna-seq-with-batch-effect",
+    "title": "Projects",
+    "section": "Identification of biased features in SRT and snRNA-seq with batch effect",
+    "text": "Identification of biased features in SRT and snRNA-seq with batch effect\nAugust 2024 - Current, Baltimore, MD\nWe developed computational tool of BiasDetect within Bioconductor framework to identify biased genes in spatially-resolved transcriptomics (SRT) and single-nucleus RNA sequencing (snRNA-seq) data with batch variable to increase the accuracy for downstream clustering process. Specifically, we examined and selected binomial deviance model from scry to calculate the per-gene ranks and deviance difference with and without batch variable. Then, we derived data-driven threshold approach based on the number of standard deviation (nSD) in relative change of deviance and in rank difference to identify the biased features. Finally, we validated the clustering performances of computational method by PRECAST.\n\nR/biasDetect | Identify the biased features from spatially variable genes in spatially-resolved transcriptomics data and from highly variable genes in single-nucleus RNA sequencing data with batch variable."
+  },
+  {
+    "objectID": "projects.html#spatial-human-hippocampus",
+    "href": "projects.html#spatial-human-hippocampus",
+    "title": "Projects",
+    "section": "Spatial Human Hippocampus",
+    "text": "Spatial Human Hippocampus\nSeptember - October 2024, Baltimore, MD\nI developed an ExperimentHub package named humanHippocampus2024 within Bioconductor framework to store the generated spatially-resolved transcriptomics data in SpatialExperiment class and single-nucleus RNA sequencing data in SingleCellExperiment class from the 10x Genomics Visium Spatial (U01) Human Hippocampus (HPC) project by The Lieber Institute for Brain Development (LIBD) researchers and scientists.\n\nR/humanHippocampus2024 | ExperimentHub package that contains a spatially-resolved transcriptomics dataset in SpatialExperiment class and a single-nucleus RNA sequencing dataset in SingleCellExperiment class from Nelson et al (under-review by Bioconductor).\nNelson ED, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J, Hou C, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, Hicks SC. (2024). An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus. bioRxiv."
+  },
+  {
+    "objectID": "projects.html#r-client-for-the-human-biomolecular-atlas-program-hubmap-data-portal",
+    "href": "projects.html#r-client-for-the-human-biomolecular-atlas-program-hubmap-data-portal",
+    "title": "Projects",
+    "section": "R Client for the Human BioMolecular Atlas Program (HuBMAP) Data Portal",
+    "text": "R Client for the Human BioMolecular Atlas Program (HuBMAP) Data Portal\nMarch – September 2024, Baltimore, MD\nThe Human BioMolecular Atlas Program (HuBMAP) is a comprehensive, open-sourced, global atlas of the human body at a cellar resolution. There are plentiful datasets generated by more than 20 assays from various donors and samples. Despite these data resources being available on HuBMAP Data Portal, there currently lacks programmatic interface in R to access, explore, retrieve, and download these data. Thus, I developed and published efficient and programmatic R client named HuBMAPR with Bioconductor framework. As an R/Bioconductor package, HuBMAPR successfully helps worldwide researchers to conduct data retrieval and bulk data transfer from HuBMAP Data Portal easier and faster. On December 2nd, I was invited to present HuBMAPR 10-minute package demo oral presentation.\n\nHou C, Ghazanfar S, Marini F, Morgan M, Hicks SC. (2024). HuBMAPR: an R Client for the HuBMAP Data Portal. bioRxiv.\n\n\n\nR/HuBMAPR |  | R/Bioconductor package that serves as an R Client for the HuBMAP Data Portal. (Hou et al., 2024. bioRxiv)"
+  },
+  {
+    "objectID": "projects.html#long-read-rna-sequencing-data",
+    "href": "projects.html#long-read-rna-sequencing-data",
+    "title": "Projects",
+    "section": "Long-read RNA sequencing data",
+    "text": "Long-read RNA sequencing data\nOctober 2024 - Current, Baltimore, MD\nAs the methods of the year in 2022 by Nature (https://www.nature.com/articles/s41592-022-01759-x), long-read RNA sequencing (LS RNA-seq) opens tremendous research opportunities and highlights the new challenges in genomics. Our current long-term goal is to compose an organized and systematic LS RNA-seq data analysis e-book providing instructions and building workflows based on various LS RNA-seq datasets, making contributions for the whole genomics community."
+  },
+  {
+    "objectID": "projects.html#exploring-the-use-of-artificial-intelligence-to-assess-the-exposome",
+    "href": "projects.html#exploring-the-use-of-artificial-intelligence-to-assess-the-exposome",
+    "title": "Projects",
+    "section": "Exploring the use of Artificial Intelligence to Assess the Exposome",
+    "text": "Exploring the use of Artificial Intelligence to Assess the Exposome\nOctober 2023 – August 2024, Baltimore, MD\nAs part-time data analyst, I helped to conduct the raw sequencing data quality control and batch effect removal. I applied Weighted Gene Co-expression Network Analysis (WGCNA) and differential expression analysis on 100 samples from the Baltimore community to explore the exposure factor’s association with health outcomes."
+  },
+  {
+    "objectID": "projects.html#single-cell-rna-sequencing-analysis",
+    "href": "projects.html#single-cell-rna-sequencing-analysis",
+    "title": "Projects",
+    "section": "Single Cell RNA Sequencing Analysis",
+    "text": "Single Cell RNA Sequencing Analysis\nFeb. – May. 2023, Madison, WI\nI conducted quality control assessments using both cell count and gene level filters to ensure data integrity. I applied normalization techniques using SCTransform following cell cycle score verification, followed by employing PCA and UMAP for dimensional reduction computations. I employed canonical correlation analysis (CCA) to process normalized samples and analyzed clusters and cell types using the SingleR."
+  },
+  {
+    "objectID": "projects.html#analyzing-farm-and-illness-related-modules-in-child-nasal-gene-expression",
+    "href": "projects.html#analyzing-farm-and-illness-related-modules-in-child-nasal-gene-expression",
+    "title": "Projects",
+    "section": "Analyzing Farm and Illness-related Modules in Child Nasal Gene Expression",
+    "text": "Analyzing Farm and Illness-related Modules in Child Nasal Gene Expression\nAugust – December 2022, Madison, WI\nFarm exposures in early life reduce the risks for childhood allergic diseases and asthma. There is less information about how farm exposures relate to respiratory illnesses and mucosal immune development. As undergraduate research assistant, I helped to remove samples that failed quality control checks or did not have corresponding respiratory illness data of the 100 samples submitted for sequencing (22 farm and 42 non-farm samples were included in the analyses of differential gene expression). I performed differential expression analysis using DESeq2 and applied gene set enrichment analysis to compare the gene expression trends for farm status and high repository illness count. I also utilized Weighted Gene Coexpression Network Analysis (WGCNA) results to identify co-expressed gene modules in the transcriptomics data and quantified the eigen-genes for each module and explored differential expression to determine whether any modules were associated with farm status or respiratory illness frequency.\n\nBrownell J, Lee KE, Chasman D, Gangnon R, Bendixsen CG, Barnes K, Grindle K, Pappas T, Bochkov YA, Dresen A, Hou C, Haslam DB, Seroogy CM, Ong IM, Gern JE. Farm animal exposure, respiratory illnesses, and nasal cell gene expression. (2024). J Allergy Clin Immunol. Jun; 153(6):1647-1654. PMID: 38309597; PMCID: PMC11162314."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Nelson ED, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J, Hou C, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, Hicks SC. (2024). An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus. bioRxiv.\nHou C, Ghazanfar S, Marini F, Morgan M, Hicks SC. (2024). HuBMAPR: an R Client for the HuBMAP Data Portal. bioRxiv."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Nelson ED, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J, Hou C, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, Hicks SC. (2024). An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus. bioRxiv.\nHou C, Ghazanfar S, Marini F, Morgan M, Hicks SC. (2024). HuBMAPR: an R Client for the HuBMAP Data Portal. bioRxiv."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\nBrownell J, Lee KE, Chasman D, Gangnon R, Bendixsen CG, Barnes K, Grindle K, Pappas T, Bochkov YA, Dresen A, Hou C, Haslam DB, Seroogy CM, Ong IM, Gern JE. Farm animal exposure, respiratory illnesses, and nasal cell gene expression. (2024). J Allergy Clin Immunol. Jun; 153(6):1647-1654. PMID: 38309597; PMCID: PMC11162314."
   }
 ]

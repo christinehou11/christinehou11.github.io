@@ -13,25 +13,37 @@ comments: false
 ---
 
 ::: column-body
+### Research Interests
 
-<font size= "5">  **Education Background** </font>
+Genomics, statistical and computational method development, computational biology, data integration, data science, machine learning
 
-- Johns Hopkins University, Bloomber School of Public Health
+### Skills
 
-  - Master of Science (Sc.M.) in Biostatistics
-  
-  - 2023 - 2025 (Expected)
-  
-- University of Wisconsin - Madison
+-   Computational Skills
 
-  - Bachelor of Science (B.S.) in Data Science
-  
-  - Bachelor of Science (B.S.) in Statistics
-  
-  - University Certificate (UCrt) in Mathematics
-  
-  - University Certificate (UCrt) in East Asian Studies
-  
-  - 2019 - 2023
+    -   Fluent in R, Python; High-performance Computing (Linux); developing R/Bioconductor packages; statistical modeling; GitHub; Data Science
 
+-   Genomics atlas processing, analysis, and integration
+
+    -   bulk RNA-seq, single cell genomics, spatially resolved transcriptomics, bulk long read RNA-seq, isoform
+
+### Education
+
+-   Johns Hopkins University, Bloomber School of Public Health
+
+    -   Master of Science (Sc.M.) in Biostatistics
+
+    -   2023 - 2025 (Expected)
+
+-   University of Wisconsin - Madison
+
+    -   Bachelor of Science (B.S.) in Data Science
+
+    -   Bachelor of Science (B.S.) in Statistics
+
+    -   University Certificate (UCrt) in Mathematics
+
+    -   University Certificate (UCrt) in East Asian Studies
+
+    -   2019 - 2023
 :::
