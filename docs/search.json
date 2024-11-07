@@ -28,6 +28,27 @@
     "text": "Research Interests\nGenomics, statistical and computational method development, computational biology, data integration, data science, machine learning\n\n\nSkills\n\nComputational Skills\n\nFluent in R, Python; High-performance Computing (Linux); developing R/Bioconductor packages; statistical modeling; GitHub; Data Science\n\nGenomics atlas processing, analysis, and integration\n\nbulk RNA-seq, single cell genomics, spatially resolved transcriptomics, bulk long read RNA-seq, isoform\n\n\n\n\nEducation\n\nJohns Hopkins University, Bloomber School of Public Health\n\nMaster of Science (Sc.M.) in Biostatistics\n2023 - 2025 (Expected)\n\nUniversity of Wisconsin - Madison\n\nBachelor of Science (B.S.) in Data Science\nBachelor of Science (B.S.) in Statistics\nUniversity Certificate (UCrt) in Mathematics\nUniversity Certificate (UCrt) in East Asian Studies\n2019 - 2023"
   },
   {
+    "objectID": "others.html",
+    "href": "others.html",
+    "title": "Other Experiences",
+    "section": "",
+    "text": "United Services Automobile Association (USAA), Plano, TX\nSoftware Engineer (IT Intern), June - August 2022\n\nAppended different descriptors to email notifications running in non-production environments\nUpdated Java functionality for email notifications to allow add tokenized (dynamic) values in the subject and body of email alerts\nWorked on message consumptions from Kafka customer system and document retrievals in Couchbase\nMigrated JBoss services to Spring Boot, and visualized captured Histogram and Counter Prometheus metrics in Grafana\n\nGesanghua Education’s Aid, Hefei, AH\nStudent Volunteer, June 2016 - August 2019\n\nAssisted in data integration and reports from collaborators (local hospitals, health organizations, etc.) to data analyst\nTransported children from Qumalai County, Yushu Tibetan Autonomous Prefecture, Qinghai to Grade\nA tertiary hospital in Hefei, Anhui province for congenital heart disease treatments\nParticipated in the medical examinations for children and sent living supplies to Qumalai County"
+  },
+  {
+    "objectID": "others.html#work-and-volunteer",
+    "href": "others.html#work-and-volunteer",
+    "title": "Other Experiences",
+    "section": "",
+    "text": "United Services Automobile Association (USAA), Plano, TX\nSoftware Engineer (IT Intern), June - August 2022\n\nAppended different descriptors to email notifications running in non-production environments\nUpdated Java functionality for email notifications to allow add tokenized (dynamic) values in the subject and body of email alerts\nWorked on message consumptions from Kafka customer system and document retrievals in Couchbase\nMigrated JBoss services to Spring Boot, and visualized captured Histogram and Counter Prometheus metrics in Grafana\n\nGesanghua Education’s Aid, Hefei, AH\nStudent Volunteer, June 2016 - August 2019\n\nAssisted in data integration and reports from collaborators (local hospitals, health organizations, etc.) to data analyst\nTransported children from Qumalai County, Yushu Tibetan Autonomous Prefecture, Qinghai to Grade\nA tertiary hospital in Hefei, Anhui province for congenital heart disease treatments\nParticipated in the medical examinations for children and sent living supplies to Qumalai County"
+  },
+  {
+    "objectID": "others.html#leadership-and-academic",
+    "href": "others.html#leadership-and-academic",
+    "title": "Other Experiences",
+    "section": "Leadership and academic",
+    "text": "Leadership and academic\n\nBiostatistics Graduate Student Ambassador, Johns Hopkins University\nMay 2024 - Current\nAttended regular volunteer events to help introduce and advertise the academic configurations, student resources, and training opportunities for current students or future applicants; Hold online student communication service to answer questions related to the Biostatistics program information\nGraduate teaching assistant, Johns Hopkins University\nAug. 2024 - Current\nTA for undergraduate-level Public Health Biostatistics (AS.280.345.01.FA24); graded homework, quiz, projects, and exams\nMathematics Peer Mentor & Drop-in Tutor, UW-Madison\nOct. 2021 – Dec. 2022\nProvided one-on-one, student-centered assistance for course assignments; organized weekly office hours and pre-test sessions to help students with exam or quiz reviews"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",

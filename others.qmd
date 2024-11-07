@@ -1,6 +1,49 @@
 ---
-title: "Other experiences"
+title: "Other Experiences"
 format:
     html:
         toc: true
 ---
+
+## Work and volunteer
+
+-   United Services Automobile Association (USAA), Plano, TX
+
+    Software Engineer (IT Intern), *June - August 2022*
+
+    -   Appended different descriptors to email notifications running in non-production environments
+    -   Updated Java functionality for email notifications to allow add tokenized (dynamic) values in the subject and body of email alerts
+    -   Worked on message consumptions from Kafka customer system and document retrievals in Couchbase
+    -   Migrated JBoss services to Spring Boot, and visualized captured Histogram and Counter Prometheus metrics in Grafana
+
+-   Gesanghua Education’s Aid, Hefei, AH
+
+    Student Volunteer, *June 2016 - August 2019*
+
+    -   Assisted in data integration and reports from collaborators (local hospitals, health organizations, etc.) to data analyst
+
+    -   Transported children from Qumalai County, Yushu Tibetan Autonomous Prefecture, Qinghai to Grade
+
+    -   A tertiary hospital in Hefei, Anhui province for congenital heart disease treatments
+
+    -   Participated in the medical examinations for children and sent living supplies to Qumalai County
+
+## Leadership and academic
+
+-   Biostatistics Graduate Student Ambassador, Johns Hopkins University
+
+    *May 2024 - Current*
+
+    Attended regular volunteer events to help introduce and advertise the academic configurations, student resources, and training opportunities for current students or future applicants; Hold online student communication service to answer questions related to the Biostatistics program information
+
+-   Graduate teaching assistant, Johns Hopkins University
+
+    *Aug. 2024 - Current*
+
+    TA for undergraduate-level Public Health Biostatistics (AS.280.345.01.FA24); graded homework, quiz, projects, and exams
+
+-   Mathematics Peer Mentor & Drop-in Tutor, UW-Madison
+
+    *Oct. 2021 – Dec. 2022*
+
+    Provided one-on-one, student-centered assistance for course assignments; organized weekly office hours and pre-test sessions to help students with exam or quiz reviews
