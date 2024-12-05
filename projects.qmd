@@ -25,7 +25,8 @@ We developed computational tool of [BiasDetect](https://github.com/christinehou1
 
 I developed an ExperimentHub package named [humanHippocampus2024](https://github.com/christinehou11/humanHippocampus2024) within Bioconductor framework to store the generated spatially-resolved transcriptomics data in SpatialExperiment class and single-nucleus RNA sequencing data in SingleCellExperiment class from the [10x Genomics Visium Spatial (U01) Human Hippocampus (HPC)](https://github.com/LieberInstitute/spatial_hpc) project by [The Lieber Institute for Brain Development (LIBD)](https://www.libd.org/) researchers and scientists.
 
--   [R/humanHippocampus2024](https://github.com/christinehou11/humanHippocampus2024) \| ExperimentHub package that contains a spatially-resolved transcriptomics dataset in SpatialExperiment class and a single-nucleus RNA sequencing dataset in SingleCellExperiment class from [Nelson et al](https://www.biorxiv.org/content/10.1101/2024.04.26.590643v1) (under-review by Bioconductor).
+-   [R/humanHippocampus2024](https://bioconductor.org/packages/devel/data/experiment/html/humanHippocampus2024.html) \| ExperimentHub package that contains a spatially-resolved transcriptomics dataset in SpatialExperiment class and a single-nucleus RNA sequencing dataset in SingleCellExperiment class from [Nelson et al](https://www.biorxiv.org/content/10.1101/2024.04.26.590643v1).
+
 -   Nelson ED, Tippani M, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J, **Hou C**, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC, Hicks SC. (2024). [An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus](https://doi.org/10.1101/2024.04.26.590643). *bioRxiv*.
 
 ## R Client for the Human BioMolecular Atlas Program (HuBMAP) Data Portal

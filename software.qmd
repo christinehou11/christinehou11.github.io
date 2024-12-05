@@ -11,12 +11,12 @@ format:
 
 -   [R/HuBMAPR](https://bioconductor.org/packages/HuBMAPR) \| <img src="https://bioconductor.org/shields/years-in-bioc/HuBMAPR.svg"/> \| R/Bioconductor package that serves as an R Client for the HuBMAP Data Portal. ([Hou et al., 2024. *bioRxiv*](https://doi.org/10.1101/2024.09.26.615227))
 
+#### Data packages
+
+- [R/humanHippocampus2024](https://bioconductor.org/packages/devel/data/experiment/html/humanHippocampus2024.html) | ExperimentHub package that contains a spatially-resolved transcriptomics dataset in SpatialExperiment class and a single-nucleus RNA sequencing dataset in SingleCellExperiment class from [Nelson et al., 2024. *bioRxiv*](https://www.biorxiv.org/content/10.1101/2024.04.26.590643v1).
+
 ## GitHub
 
 #### Software packages
 
 -   [R/biasDetect](https://github.com/christinehou11/BiasDetect) \| Identify the biased features from spatially variable genes in spatially-resolved transcriptomics data and from highly variable genes in single-nucleus RNA sequencing data with batch variable.
-
-#### Data packages
-
--   [R/humanHippocampus2024](https://github.com/christinehou11/humanHippocampus2024) \| ExperimentHub package that contains a spatially-resolved transcriptomics dataset in SpatialExperiment class and a single-nucleus RNA sequencing dataset in SingleCellExperiment class from [Nelson et al](https://www.biorxiv.org/content/10.1101/2024.04.26.590643v1) (under-review by Bioconductor).
